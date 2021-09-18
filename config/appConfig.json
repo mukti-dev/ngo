@@ -1,0 +1,8 @@
+{
+    "JWT_SECRCET": "VlicOf1L6V9vj5IrHZIJWWxfzohN7Mdh1ZlAEeUh",
+    "twilioCongig": {
+        "ACCOUNT_SID": "ACba5f8b76c45d79700744c34f38c01b19",
+        "AUTH_TOKEN": "78412d594387b96a3c451905a4a85113",
+        "PHONE": "+18622256961"
+    }
+}
